@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📇 MERN Contact App
 
 A full-stack contact management application built with MongoDB, Express, React, and Node.js. This app allows users to create, view, and delete contacts with a clean, modern UI.
@@ -263,3 +264,7 @@ ISC
 
 **Built with ❤️ using MERN Stack**
 
+=======
+# mern-contact-manager
+A full-stack MERN Contact Management Web Application with real-time validation, REST APIs, MongoDB integration, and live deployment. Built as part of a technical interview assignment.
+>>>>>>> a1f62625d39e0d4ae75d0976059b05940d46d0b2
